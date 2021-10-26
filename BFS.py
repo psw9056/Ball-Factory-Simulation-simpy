@@ -1,5 +1,3 @@
-!pip install simpy
-
 import simpy
 import numpy as np
 
