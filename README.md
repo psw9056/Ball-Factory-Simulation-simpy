@@ -8,5 +8,4 @@ SimPy is implemented in pure Python and has no dependencies. SimPy runs on Pytho
 pip install simpy
 ```
 
-
 ## Ball-Factory-Modules
