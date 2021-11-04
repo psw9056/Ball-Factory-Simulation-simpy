@@ -4,12 +4,11 @@ Simulation using SimPy of [Akiyuki Ball Factory V3](https://www.youtube.com/watc
 ## Ball-Factory-Modules
 
 
-https://user-images.githubusercontent.com/92966346/140266830-1e5820eb-4296-41f9-b2a1-1bceac8938fc.mp4
+https://user-images.githubusercontent.com/92966346/140267334-3428d314-ec7f-495f-bade-71ce52dbe6a4.mp4
 
 
 ![image](https://user-images.githubusercontent.com/92966346/140264282-7c9b8a48-b15c-4483-a7b0-b1c014dfcc69.png)
 
-Black = Main Power Distribution
 Green = Ball Spiral Lift
 Purple = Ball Pusher
 Gray = Ball Picker
@@ -19,7 +18,9 @@ Yellow = Bucket Conveyor
 Red = Bucket Shifter
 Tan = Bucket Dumper
 White = Bucket Loader
-Lime = Ball Return Conveyor (Not in)
+* NOT IN
+Black = Main Power Distribution
+Lime = Ball Return Conveyor
 
 
 
