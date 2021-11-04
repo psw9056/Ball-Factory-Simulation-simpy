@@ -9,17 +9,17 @@ https://user-images.githubusercontent.com/92966346/140267334-3428d314-ec7f-495f-
 
 ![image](https://user-images.githubusercontent.com/92966346/140264282-7c9b8a48-b15c-4483-a7b0-b1c014dfcc69.png)
 
-Green = Ball Spiral Lift
-Purple = Ball Pusher
-Gray = Ball Picker
-Blue = Bucket Wheel
-Orange = Bucket Unloader
-Yellow = Bucket Conveyor
-Red = Bucket Shifter
-Tan = Bucket Dumper
-White = Bucket Loader
-* NOT IN
-Black = Main Power Distribution
+Green = Ball Spiral Lift   
+Purple = Ball Pusher   
+Gray = Ball Picker   
+Blue = Bucket Wheel   
+Orange = Bucket Unloader   
+Yellow = Bucket Conveyor   
+Red = Bucket Shifter   
+Tan = Bucket Dumper   
+White = Bucket Loader   
+* NOT IN   
+Black = Main Power Distribution   
 Lime = Ball Return Conveyor
 
 
