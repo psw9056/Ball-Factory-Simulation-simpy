@@ -18,7 +18,7 @@ Yellow = Bucket Conveyor
 Red = Bucket Shifter   
 Tan = Bucket Dumper   
 White = Bucket Loader   
-* NOT IN   
+- NOT IN   
 Black = Main Power Distribution   
 Lime = Ball Return Conveyor
 
